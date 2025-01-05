@@ -12,10 +12,10 @@ As a soon-to-be graduate in Mathematics and Computer Science, I am eager to appl
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/snannra/Threat-Detection-System">Threat Detection System</a> and <a href="https://github.com/snannra/Cybersecurity-Home-Lab">CyberSecurity Home Lab</a>|
 | Attack Detection and Malware Analysis | <a href="https://github.com/snannra/Cybersecurity-Home-Lab">CyberSecurity Home Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/snannra/SOC-Automation-Lab">SOC Automation Lab</a>| 
+| Incident Response Planning and Execution      | <a href="https://github.com/snannra/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/snannra/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/snannra/SOC-Automation-Lab">SOC Automation Lab</a>|
 
 ## Tools
 
